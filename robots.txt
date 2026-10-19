@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://midnightmichigan.github.io/night-desk/sitemap.xml
