@@ -36,6 +36,11 @@ article.story blockquote{border-left:3px solid #f2b134;padding:6px 16px;margin:1
 .related-card .rt a{color:#f5c451;text-decoration:none;font-size:.9rem;line-height:1.4}
 .related-card .rt a:hover{text-decoration:underline}
 .back{display:inline-block;margin-top:22px}
+.prevnext{display:flex;justify-content:space-between;gap:14px;margin-top:26px}
+.prevnext .pn-next{margin-left:auto;text-align:right}
+.archive h2{margin:24px 0 8px}
+.archive ul{margin:0 0 1em 1.2em}
+.archive li{margin-bottom:4px}
 @media(max-width:640px){.related-grid{grid-template-columns:1fr}}
 .about h1{color:#f5c451;margin-bottom:12px}
 .about p{margin-bottom:1em}
