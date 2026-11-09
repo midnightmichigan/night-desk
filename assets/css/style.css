@@ -37,6 +37,9 @@ article.story blockquote{border-left:3px solid #f2b134;padding:6px 16px;margin:1
 .related-card .rt a{color:#f5c451;text-decoration:none;font-size:.9rem;line-height:1.4}
 .related-card .rt a:hover{text-decoration:underline}
 .back{display:inline-block;margin-top:22px}
+.share{display:flex;gap:10px;flex-wrap:wrap;margin:22px 0 6px}
+.share a{border:1px solid currentColor;border-radius:999px;padding:6px 14px;font-size:.82rem;text-decoration:none;opacity:.85}
+.share a:hover{opacity:1;text-decoration:underline}
 .prevnext{display:flex;justify-content:space-between;gap:14px;margin-top:26px}
 .prevnext .pn-next{margin-left:auto;text-align:right}
 .archive h2{margin:24px 0 8px}
