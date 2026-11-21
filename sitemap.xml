@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://midnightmichigan.github.io/night-desk/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://midnightmichigan.github.io/night-desk/about.html</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://midnightmichigan.github.io/night-desk/archive.html</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://midnightmichigan.github.io/night-desk/tip.html</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://midnightmichigan.github.io/night-desk/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://midnightmichigan.github.io/night-desk/about.html</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://midnightmichigan.github.io/night-desk/archive.html</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://midnightmichigan.github.io/night-desk/tip.html</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://midnightmichigan.github.io/night-desk/articles/fbi-ncic-database-breach.html</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><image:image><image:loc>https://midnightmichigan.github.io/night-desk/assets/img/fbi-ncic-breach-card.png</image:loc></image:image></url>
+  <url><loc>https://midnightmichigan.github.io/night-desk/articles/rinderknecht-guilty-palisades-fire.html</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><image:image><image:loc>https://midnightmichigan.github.io/night-desk/assets/img/rinderknecht-guilty-card.png</image:loc></image:image></url>
   <url><loc>https://midnightmichigan.github.io/night-desk/articles/gta-vi-reported-money-spots-leonida.html</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><image:image><image:loc>https://midnightmichigan.github.io/night-desk/assets/img/gta-vi-money-spots-card.png</image:loc></image:image></url>
   <url><loc>https://midnightmichigan.github.io/night-desk/articles/zollicoffer-guilty-milwaukee-triple-homicide.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><image:image><image:loc>https://midnightmichigan.github.io/night-desk/assets/img/zollicoffer-guilty-card.png</image:loc></image:image></url>
   <url><loc>https://midnightmichigan.github.io/night-desk/articles/ps5-storage-holiday-wave.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
